@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import './style.css';
-
 const App = () =>{
     const [number, setNumber] = useState(0)
     return <div>
